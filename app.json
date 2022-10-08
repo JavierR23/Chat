@@ -1,0 +1,22 @@
+{
+  "name": "Chat",
+  "description": "my first socket.io app",
+  "website": "https://github.com/JavierR23/Chat.git",
+  "repository": "https://github.com/JavierR23/Chat.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
